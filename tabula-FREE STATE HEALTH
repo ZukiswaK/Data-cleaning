@@ -1,0 +1,355 @@
+"ORDER/COMMI
+TMENT DATE,""ORDER"
+"NUMBER"",""NAME OF SERVICE PROVIDER"
+"(S)"",""LOGIS & MAAA NUMBER OF"
+"THE SERVICE PROVIDER"",ITEM DESCRIPTION,UNIT PRICE,""UNIT OF"
+"MEASUREMENT"",QUANTITY,""STAGE OF TRANSACTION """"The amount committeed or spent can ONLY be at one of the"
+"stages and NOT more than one stage"""""",""TOTAL EXP AND COMMITMENTS"
+"FOR THE DEPARTMENT"",,,"
+",,,,,,,,PAID/ EXPENDITURE,""INDICATE AMOUNT TO"
+BE COMMITTED
+(PROCESS UNDERWAY)
+"- LOGIS REPORT 102"",""COMMITTED BUT NOT"
+YET INVOICED - SEE
+ON LOGIS
+COMMITMENT
+REPORT - LOGIS
+"REPORT 102"",""INDICATE"
+AMOUNT
+RECEIVED AS
+ON INVOICE BUT
+NOT YET PAID -
+LOGIS REPORT
+"103"","
+"26-Mar-20,HH-042599,Logan Medical & Surgical,MAAA0009035,Isolation Gowns – Large,R40.25,each,20000,""R                    5 51,425.00"",""R                  8 05,000.00"",""R               2 53,575.00"",R                   -,""R                                       805,000.00"""
+",HH-042599,Logan Medical & Surgical,MAAA0009035,""Isolation Gowns – Extra"
+"Large"",R34.50,each,5000,""R                    1 72,500.00"",""R                  1 72,500.00"",R                           -,R                   -,""R                                      172,500.00"""
+"26-Mar-20,HH-042602,Lechoba Medical Technologies,MAAA0038766,Coveralls – Large,R23.93,each,6000,""R                    1 43,600.00"",""R               2 ,154,000.00"",""R            2 ,010,400.00"",R                   -,""R                                    2,154,000.00"""
+"26-Mar-20,HH-042602,Lechoba Medical Technologies,MAAA0038766,Coveralls – Extra Large,R17.50,each,4000,""R                      7 0,005.00"",""R               1 ,436,000.00"",""R            1 ,365,995.00"",R                   -,""R                                   1,436,000.00"""
+"26-Mar-20,HH-042601,Supra Healthcare,MAAA0015240,Surgical Gloves,R919.50,1 x Carton,12,""R                      1 1,034.00"",""R                    1 1,034.00"",R                           -,R                   -,""R                                         11,034.00"""
+"31-Mar-20,HH-042603,Supra Healthcare,MAAA0015240,Surgical Gloves,R919.43,1 x Carton,120,""R                    1 10,331.00"",""R                  1 10,331.00"",R                            -,R                   -,""R                                       110,331.00"""
+"25-Mar-20,HH-042589,Tara Healthcare,MAAA0104716,Surgical Masks,""R27,025.00"",1 x Carton,120,""R                 3 ,243,000.00"",""R               3 ,243,000.00"",R                           -,R                   -,""R                                    3,243,000.00"""
+"25-Mar-20,HH-042587,Tara Healthcare,MAAA0104716,Sanitizers,R 795.00,1 x Carton,3000,""R                 2 ,385,000.00"",""R               2 ,385,000.00"",R                           -,R                   -,""R                                    2,385,000.00"""
+"25-Mar-20,HH-042590,Unitrade 1032,MAAA0026259,Visors,R 18.00,each,10000,""R                    1 80,000.00"",""R                  1 80,000.00"",R                           -,R                   -,""R                                       180,000.00"""
+"26-Mar-20,HH-042588,Lechoba Medical Technologies,MAAA0038766,Safety Goggles,R 38.82,each,10000,""R                    3 88,200.00"",""R                  3 88,200.00"",R                            -,R                   -,""R                                      388,200.00"""
+"14-Apr-20,HH-042605,Alframed Halfwayhouse Midrand,MAAA0338949,Infra-red Thermometers,R 941.00,each,400,""R                    3 76,400.00"",""R                  3 76,400.00"",R                            -,R                   -,""R                                      376,400.00"""
+"14-Apr-20,HH-042604,Roka Media,MAAA0174870,Toiletries,Various Items,Various Items,Various Items,""R                      2 9,175.00"",""R                    2 9,175.00"",R                            -,R                   -,""R                                        29,175.00"""
+"21-Apr-20,HH-042616,Imperial Logistics,MAAA0704129,Surgical Masks,R 624.00,Box,""4,000"",""R                 2 ,496,000.00"",""R               2 ,496,000.00"",R                            -,R                   -,""R                                    2,496,000.00"""
+"22-Apr-20,HH-042632,Lounge 848 and Shaxe Khumalo,MAAA0650699,""Public Campaign"
+"Masque"",Transversal  contract,as per contract,as per contract,""R                    9 98,017.17"",""R                  9 98,017.17"",R                           -,R                   -,""R                                      998,017.17"""
+"22-Apr-20,HH-042631,Lounge 848 and Shaxe Khumalo,MAAA0650699,""Public Campaign"
+"Masque"",Transversal  contract,as per contract,as per contract,""R                    2 21,515.48"",""R                  2 21,515.48"",R                            -,R                   -,""R                                      221,515.48"""
+"14-Apr-20,HH-042606,Elsie Catering,MAAA0088743,Catering for CWs,Transversal  contract,as per contract,as per contract,""R                      6 5,250.00"",""R                    6 5,250.00"",R                            -,R                   -,""R                                         65,250.00"""
+"14-Apr-20,HH-042607,Sophia and Kego,MAAA0096950,Catering for CWs,Transversal  contract,as per contract,as per contract,""R                      6 5,250.00"",""R                    6 5,250.00"",R                           -,R                   -,""R                                        65,250.00"""
+"13-May-20,HH-042646,Sophia and Kego,MAAA0096950,Catering for CWs,Transversal  contract,as per contract,as per contract,""R                        9 ,279.60"",""R                      9 ,279.60"",R                            -,R                   -,""R                                           9,279.60"""
+"14-Apr-20,HH-042609,Ral Events,MAAA0138076,Catering for CWs,Transversal  contract,as per contract,as per contract,""R                      2 1,801.00"",""R                    2 1,801.00"",R                           -,R                   -,""R                                         21,801.00"""
+"14-Apr-20,HH-042608,Ral Events,MAAA0138076,Catering for CWs,Transversal  contract,as per contract,as per contract,""R                      4 3,602.00"",""R                    4 3,602.00"",R                            -,R                   -,""R                                         43,602.00"""
+"21-Apr-20,HH-042628,Ral Events,MAAA0138076,Catering for CWs,Transversal  contract,as per contract,as per contract,""R                      6 3,241.50"",""R                    6 3,241.50"",R                            -,R                   -,""R                                         63,241.50"""
+"13-May-20,HH-042639,Ral Events,MAAA0138076,Catering for CWs,Transversal  contract,as per contract,as per contract,""R                        8 ,720.40"",""R                      8 ,720.40"",R                            -,R                   -,""R                                          8,720.40"""
+"13-May-20,HH-042637,Ral Events,MAAA0138076,Catering for CWs,Transversal  contract,as per contract,as per contract,""R                        9 ,385.20"",""R                      9 ,385.20"",R                            -,R                   -,""R                                          9,385.20"""
+"21-Apr-20,HH-042624,Selloane Trading,MAAA0096762,Catering for CWs,Transversal  contract,as per contract,as per contract,""R                      7 1,433.00"",""R                    7 1,433.00"",R                           -,R                   -,""R                                         71,433.00"""
+"13-May-20,HH-042638,Selloane Trading,MAAA0096762,Catering for CWs,Transversal  contract,as per contract,as per contract,""R                        9 ,385.20"",""R                      9 ,385.20"",R                            -,R                   -,""R                                           9,385.20"""
+"21-Apr-20,HH-042629,Gemini Moon Trading,MAAA0049874,Accomodation,Transversal  contract,as per contract,as per contract,,""R                      4 ,703.44"",""R                   4 ,703.44"",R                   -,""R                                           4,703.44"""
+"21-Apr-20,HH-042630,Gemini Moon Trading,MAAA0049874,Accomodation,Transversal  contract,as per contract,as per contract,""R                      1 9,526.88"",""R                    2 0,406.88"",R                      8 80.00,R                   -,""R                                        20,406.88"""
+"13-May-20,HH-042640,Gemini Moon Trading,MAAA0049874,Accomodation,Transversal  contract,as per contract,as per contract,""R                        1 ,201.72"",""R                      4 ,355.16"",""R                   3 ,153.44"",R                   -,""R                                          4,355.16"""
+"15-May-20,HH-042647,Gemini Moon Trading,MAAA0049874,Accomodation,Transversal  contract,as per contract,as per contract,""R                      3 8,520.00"",""R                    4 1,160.00"",""R                   2 ,640.00"",R                   -,""R                                         41,160.00"""
+"15-May-20,HH-042648,Gemini Moon Trading,MAAA0049874,Accomodation,Transversal  contract,as per contract,as per contract,""R                    1 52,657.97"",""R                  1 52,464.00"",-R                      1 93.97,R                   -,""R                                      152,464.00"""
+"15-May-20,HH-042656,Gemini Moon Trading,MAAA0049874,Accomodation,Transversal  contract,as per contract,as per contract,""R                    5 33,168.16"",""R                  5 33,168.16"",R                            -,R                   -,""R                                       533,168.16"""
+"Item Description,Contract/Quotation,AWARDED BIDDER,""REVISED LATEST"
+ADJUSTED PRICE (15%
+"VAT)"",QUANTITY,""Date"
+Commitment
+"letter issued"",""DELIVERY"
+PERIOD
+"MIN (DAYS)"",""DELIVERY"
+PERIOD
+MAX
+"(DAYS)"",""Date for"
+"delivery MIN"",""Date for"
+"delivery MAX"",""Purchase"
+"order"",Payment,Status of Delivery"
+SUPPLY AND DELIVERY OF PHARMACEUTICAL LIQUID, ALCOHOL,,RT300-2017,BARRS PHARMACEUTICALS,R2 371 200.00,96 000,15-May-20,,,,,HH042660  to,e effected,delivered
+SUPPLY OF DISINFECTANTS CIDEX,DOH(FS)14/16/17,FS AND NCP,R3 283 200.00,96 000,15-May-20,,,,,HH042661,Not done,
+SUPPLY AND DELIVERY OF BODY BAGS,DOH(FS)17/17/18,Zaahir Concept Design and Projects,R266 660.00,9500,15-May-20,,,,,HH042663,Not done,
+SUPPLY AND DELIVERY OF VISORS,Q003/20/COVID19,C-SQUARED CONSUMER,R3 478 640.00,44 000,1-Jun-20,,,,,HH042689  to,e effected,delivered
+SUPPLY AND DELIVERY OF INFRARED THERMOMETER,Q004/20/COVID19,C-SQUARED CONSUMER,R412 450.38,250,1-May-20,,,,,HH042687  to,e effected,delivered
+SUPPLY AND DELIVERY OF BIOHAZARD BAGS,,Cancelled: Provincial Treasury to provide the item.,,,,,,,,,,
+SUPPLY AND DELIVERY OF COVERALLS,,Cancelled: Provincial Treasury to provide the item.,,,,,,,,,,
+"SUPPLY AND DELIVERY OF SURGICAL GLOVES,Q008/20/COVID19,""Godinako"
+Thato ya Lesedi
+"Xhibitit"",""R3 600 200.00"
+R2 929 243.75
+"R1 966 097.50"",""1 5320"
+9805
+"5515"",23-Jun-20,,,,,HH-042849 (3),Not done,""Godinalo delivery completed. Thato ya Lesedi"
+and Xhibitit delivery to be completed on the
+"4th August."""
+SUPPLY AND DELIVERY OF APRON,Q009/20/COVID19,NTSU,R546 000.00,454 510,5-Jun-20,,,,,HH-042802 to,e effected,delivered
+"SUPPLY AND DELIVERY OF OVERSHOES,Q011/20/COVID19,Bazix First,""R 1, 170, 000.00"",9000,20-Jul-20,,,,,HH042717,Not done,Delivery to be done on the 4th of August."
+"SUPPLY AND DELIVERY OF SURGICAL MASK,Q012/20/COVID19,""Bazix First"
+Motheko
+Xhibit
+Sehololo
+"Chisel Hill"",""R    2, 700,000.00          R"
+2, 295,000.00
+R 1, 148,000.00
+R 671,000.00
+"R 625,000.00"",""55000"
+4  5  0   0 0
+12000
+1  1  0   0  0
+"1000"",2-Jun-20,,,,,""HH042691"
+HH042683
+HH042682
+HH042681
+HH042688
+"to"",e effected,delivered"
+"SUPPLY AND DELIVERY OF SURGICAL GOWNS,Q014/20/COVID19,""C-squaed"
+Fredock
+"Century"",""R2 428 020.00"
+R5 500 000.00
+"R4 105 600.00"",""1  8  000"
+5  0  000
+"32000"",19-Jun-20,,,,,""HH-042826"
+"to"",e effected,delivered"
+SUPPLY AND DELIVERY OF THEATRE CAPS,Q018/20/COVID19,MAPHCON CONSULTING,R176 836.00,440 000,CANCELLED,HH042686,,cancelled,,,,
+SUPPLY AND DELIVERY OF GOGGLES,Q021/19/COVID19,QUALITY MEDICAL SUPPLIES,R 64 998.00,1000,17-Jun-20,,,,,HH042685  to,e effected,delivered
+SUPPLY AND DELIVERY OF SPRAY BOTTLES,Q021/19/COVID19,Bahurutsi,R19800.00,2000,27-Jun-20,29-Jun-20,,,,HH-042851 to,e effected,delivered
+SUPPLY AND DELIVERY OF SANITIZER,,Cancelled: Provincial Treasury to provide the item.,,,,,,cancelled,,,,
+SUPPLY AND DELIVERY OF DISPOSABLE SCRUBS,,Cancelled: Provincial Treasury to provide the item.,,,,,,cancelled,,,,
+"Item Description,Contract/Quotation,AWARDED BIDDER,""QUANTIT"
+"Y"",""REVISED LATEST ADJUSTED"
+"PRICE (15% VAT)"",""Date Commitment"
+"letter issued"",""DELIVERY PERIOD"
+"MIN (DAYS)"",""DELIVERY PERIOD"
+"MAX (DAYS)"",""Date for"
+"delivery MIN"",""Date for"
+delivery
+"MAX"",Purchase order,Payment,Status of Delivery"
+"Hospital beds,019/20/COVID,Steigermeiyer,261,""ZAR                   6,784,891.00"",22-Jun-20,,,22-Jun-20,,UH139140,Not done,Delivered"
+"Hospital beds,019/20/COVID,Mbuso,425,""ZAR                   9,341,809.80"",19-Jun-20,,,19-Jun-20,,On delivery,Not done,Beds are in Durban customs and email was sent for Dr Pearce to confirm delivery date."
+"Hospital beds,019/20/COVID,C- Squared -,75,""ZAR                   2,146,762.50"",29-Jun-20,,,29-Jun-20,,On delivery,Not done,Confirmation to be send by email"
+"Hospital beds,019/20/COVID,Cam-sher,350,""ZAR                   8,050,000.00"",19-Jun-20,,,19-Jun-20,,On delivery,Not done,""Company clearing with agents in terms of ETA(estimated time of arrival). Company will inform us as soon as"
+"clearance is resolved. Email is send that 275 will be delivered by the 14th of August."""
+"matress,RT24-2017,Arjo,450,""ZAR                      416,857.50"",15-May-20,21,,5-Jun-20,,HH042657,Paid,Delivered"
+"Flow meters and engineering,Q013/20/COVID19,Bloemmed,463,""ZAR                      445,412.55"",5-Jun-20,42,,17-Jul-20,,On delivery,Not done,Delivered"
+"monitors,RT2-2016,Echomed,50,""ZAR                      964,839.00"",5-Jun-20,28,,3-Jul-20,,Create,Not done,Ex-stock- awaiting purchase orer to be generated."
+"monitors,RT2-2016,RCA,50,""ZAR                   1,789,154.27"",15-May-20,21,,5-Jun-20,,Create,Not done,Delivery to be confirmed with supplier on the 5th of August"
+"Humidifier - reusable wall,RT2-2016,East Coast Medical,900,""ZAR                      279,450.00"",12-May-20,7,,19-May-20,,HH0426 t5o8,e effected,Delivered"
+"blankets,DOH(FS)25/18/19,Kaofelo,1200,""ZAR                      600,000.00"",15-May-20,28,,12-Jun-20,,HH0426 t6o4,e effected,Delivered"
+"sheets,DOH(FS)25/18/19,Kaofelo,4200,""ZAR                         84,000.00"",15-May-20,28,,12-Jun-20,,HH042664,Not done,Partial delivery. Awaiting material from KYM"
+"theatre gowns,DOH(FS)25/18/19,Kaofela,4000,""ZAR                      140,000.00"",15-May-20,28,,12-Jun-20,,HH042664,Not done,Partial delivery. Awaiting material from KYM"
+"theatre pants various sizes,DOH(FS)25/18/19,Kaofelo,4000,""ZAR                      120,000.00"",15-May-20,28,,12-Jun-20,,HH042664,Not done,Partial delivery. Awaiting material from KYM"
+"Theatre shirts various sizes,DOH(FS)25/18/19,Kaofela,4000,""ZAR                      120,000.00"",15-May-20,28,,12-Jun-20,,HH042664,Not done,Partial delivery. Awaiting material from KYM"
+"towels,DOH(FS)25/18/19,Kaofela,1100,""ZAR                      220,000.00"",15-May-20,28,,12-Jun-20,,HH0426 t6o4,e effected,Delivered"
+"matresss protector,DOH(FS)25/18/19,Kaofela,4000,""ZAR                   1,200,000.00"",8-Jul-20,28,,5-Aug-20,,Create,Not done,Delivery to be done on the 5th of August 2020"
+"Humidifier,RT2-2016,Drager,50,""ZAR                   1,016,833.20"",11-Jun-20,28,,9-Jul-20,,HH-042850,Not done,Delivered"
+"lazy boys,Q007/20/COVID19,Dmatt,20,""ZAR                      310,463.00"",1-Jun-20,2,,3-Jun-20,,HH0426 t8o4,e effected,Delivered"
+"masimo,Q015/20/COVID19,Novagen,100,""ZAR                 14,647,903.50"",18-Jun-20,2,,20-Jun-20,,UH139139,Not done,Quantity of 10 to be delivered on the 5th of August and 20 to be confirmed at a later stage."
+"Theatre jade green, white sheet rolls,DOH(FS)09/18/19,KYM Investment36010,"", 21650m"",""ZAR                   3,349,428.50"",24-Jun-20,,,,,HH-0428 t2o3,e effected,Delivered"
+"Item Description,Contract/Quotation,AWARDED BIDDER,QUANTITY,""REVISED LATEST ADJUSTED PRICE"
+"(15% VAT)"",""Date letter"
+"issued"",""DELIVERY"
+PERIOD MIN
+"(DAYS)"",""DELIVERY"
+PERIOD
+"MAX (DAYS)"",Date for delivery MIN,""Date for delivery"
+"MAX"",""Purchase"
+"order"",Payment,iti"
+"Mattress,RT24-2017,Arjo - Riaan 0738236015/Kay 07114839,2925,""ZAR                                     985,404.82"",19-Jun-20,21,,10-Jul-20,,UH139010,Not done,Delivered"
+"Monitor,RT2-2016,Echomed CJ 0793426254,50,""ZAR                                     762,049.50"",17-Jun-20,25,35,12-Jul-20,22-Jul-20,UH138975,Not done,Delivery to be don on the 30th of August"
+"flow meter,RT2-2016,Echomed CJ 0793426254,463,""ZAR                                     281,943.85"",17-Jun-20,28,35,15-Jul-20,22-Jul-20,UH139002,Not done,Delivery to be done on the 12th of August"
+"blanket,DOH(FS)25/18/19,Kaofela Mpho 0792357935,1233,""ZAR                                     616,500.00"",18-Jun-20,14,21,2-Jul-20,9-Jul-20,HH-042821,Not done,""Partial delivery, to be completed by the 7th of August"""
+"sheet,DOH(FS)25/18/19,Kaofela Mpho 0792357935,1850,""ZAR                                        37,000.00"",18-Jun-20,14,21,2-Jul-20,9-Jul-20,HH-042821,Not done,""Partial delivery, to be completed by the 7th of August"""
+"pillow,Q031/20/COVID,Kaofela Mpho 0792357935,1700,""ZAR                                     161,500.00"",22-Jul-20,14,21,5-Aug-20,12-Aug-20,On delivery,Not done,""Partial delivery, to be completed by the 7th of August"""
+"pillow cases,DOH(FS)25/18/19,Kaofela Mpho 0792357935,675,""ZAR                                        13,500.00"",18-Jun-20,14,21,2-Jul-20,9-Jul-20,HH-042821,Not done,""Partial delivery, to be completed by the 7th of August"""
+"Humidifier,RT2-2016,East Coast medical Charles 086 100 0428,925,""ZAR                                     287,212.50"",19-Jun-20,7,,26-Jun-20,19-Jun-20,UH139003/4,to be effected,Delivered"
+"drip stand,RT24-2017,New Horizon 031 5647380,675,""ZAR                                     378,432.00"",19-Jun-20,14,28,3-Jul-20,17-Jul-20,Create,Not done,Pending"
+"shield/screen,RT24-2017,Hospital equipment gladys 011-894-4264,135,""ZAR                                     374,252.40"",17-Jun-20,28,42,15-Jul-20,29-Jul-20,HH-042848,Not done,Delivery to be done on 31st of August 2020"
+"emergency trolly,RT24-2017,siyakhanda cindy - 0437362996,27,""ZAR                                     551,642.94"",17-Jun-20,56,84,12-Aug-20,9-Sep-20,HH042711,Not done,Pending"
+"laryngoscope,RT4,Unicore-0829297446,30,""ZAR                                       50,486.10"",18-Jun-20,14,,2-Jul-20,,HH-042841,Not done,Pending"
+"Defibrillator/AED/ECG,RT2-2016,Be safe Gavin 0217884681,27,""ZAR                                  1,015,781.80"",19-Jun-20,4,7,23-Jun-20,26-Jun-20,Create,Not done,Awaiting for purchase order to be generated"
+"medicine trolly,RT24-2017,siyakhanda cindy - 0437362996,33.75,""ZAR                                     457,629.80"",18-Jan-00,70,84,28-Mar-00,11-Apr-00,HH042712,Not done,Pending"
+"table over the bed,RT24-2017,Arjo - Riaan 0738236015/Kay,1500,""ZAR                                  3,142,743.00"",22-Jun-20,56,84,17-Aug-20,14-Sep-20,UH139010,Not done,To be confirmed by email today"
+"oxygen cylinders,RT4,Echomed CJ 0793426254,45,""ZAR                                       59,683.95"",19-Jun-20,0,0,19-Jun-20,19-Jun-20,HH-042840,Not done,Delivery to be don on the 29th of August"
+"Mobile Suction,RT2-2016,Echomed CJ 0793426254,27,""ZAR                                     184,125.96"",17-Jun-20,21,28,8-Jul-20,15-Jul-20,UH139047,Not done,Delivery to be don on the 21st of August"
+"Stethoscopes,RT4-2017,Selective Decision 0117915754,45,""ZAR                                          1,218.15"",18-Jun-20,42,56,30-Jul-20,13-Aug-20,UH138970,Not done,Pending"
+"Lighting with battery,RT2-2016,Sanbonani Holdings 0824136617,14,""ZAR                                     407,019.34"",22-Jun-20,70,84,31-Aug-20,14-Sep-20,Create,Not done,Awaiting for purchase order to be generated"
+"Medications Fridge,RT2-2016,Minus 40 Duncan 0213862290,5,""ZAR                                     305,214.05"",10-Jun-20,ex stock,ex stock,ex stock,ex stock,HH042698,paid,Delivered"
+"Scale,RT2-2016,delta surgical Ashley,27,""ZAR                                     108,990.90"",23-Jun-20,0,,23-Jun-20,23-Jun-20,UH138967,Not done,Pending"
+"Wheel chairs and stretcher trolleys,RT233-2107,CE Mobility phindi phindi@cemobility.co,za45,""ZAR                                     113,772.60"",25-Jun-20,14,21,9-Jul-20,16-Jul-20,UH139125,Not done,Pending"
+"Commodes/bedpans,RT24-2017,Safarmex Felicity0119740429,135,""ZAR                                       15,161.85"",22-Jun-20,,,22-Jun-20,22-Jun-20,UH138971,Not done,Pending"
+"Body Trolley,RT24-2017,New Horizon 031 5647380,14,""ZAR                                     109,013.40"",19-Jun-20,30,,19-Jul-20,19-Jun-20,UH138995,Not done,Awaiting delivery address from Dr. Pearce"
+"bedpan stand,RT24-2017,New Horizon 031 5647380,5,""ZAR                                       16,199.40"",18-Jun-20,30,,18-Jul-20,18-Jun-20,UH138994,Not done,Awaiting delivery address from Dr. Pearce"
+"INTUBATION VIDEO LARYNGOSCOPE,RT2-1-2016,SSEM Jannie 0833795943,6,""ZAR                                     912,870.00"",19-Jun-20,70,84,28-Aug-20,11-Sep-20,HH-042847,Not done,Delivery to be completed by the 7th of August"
+Hemocue - Hb Meter - for each ward,Q043/20/COVID19,Approved- went for capturing,27,,,,,,,On delivery,Not done,Awaiting for purchase order to be generated
+"Glucometer- for each ward,DOH(FS)29/18/19,Khalienyane Trading Tshepiso - 0737544,9227,""ZAR                                          5,062.50"",22-Jun-20,5,,27-Jun-20,,Create,Not done,Delivered"
+"Portable ultrasound machine,RT2-1-2016,Tecmed Lubbe 0825787745,5,""ZAR                                  2,479,325.09"",17-Jun-20,14,49,1-Jul-20,5-Aug-20,HH-042829,Not done,Delivery to be done before 14th August"
+"12 lead ECG machine,RT2-2016,Echomed CJ 0793426254,10,""ZAR                                        27,838.30"",19-Jun-20,28,35,17-Jul-20,24-Jul-20,UH138999,Not done,Delivery to be done on the 12th of August"
+"ICU Monitor,RT2-2016,Echomed CJ 0793426254,70,""ZAR                                  3,083,855.60"",19-Jun-20,28,35,17-Jul-20,24-Jul-20,UH139007,Not done,Delivery to be don on the 28th of August"
+"SYRINGE DRIVER,RT4-2017,Echomed CJ 0793426255,120,""ZAR                                     676,200.00"",23-Jun-20,28,35,21-Jul-20,28-Jul-20,HH-042859,to be effected,Delivered"
+"infusion pump,RT2-2016,Echomed CJ 0793426256,300,""ZAR                                  2,253,615.00"",23-Jun-20,28,35,21-Jul-20,28-Jul-20,Create,Not done,Ex-stock- awaiting purchase orer to be generated."
+"ventilator,RT2-2016,RCA Angelique0834119690,50,""ZAR                               20,732,458.46"",19-Jun-20,42,84,31-Jul-20,11-Sep-20,UH139008,Not done,Delivery to begin in September and completed in October"
+"high flow oxygen,Q030/20/COVID19,RCA Angelique0834119690,100,""ZAR                               12,459,966.53"",1-Jul-20,2,70,,,Create,Not done,Partial- Delivery to be completed end of September  2020"
+"WARMER,Q028/20/COVID19,Augustine,80,""ZAR                                  2,222,540.00"",3-Jul-20,2,49,,,Create,Not done,Awaiting for purchase order to be generated"
+"Intermittent pneumatic compression device,DOH(FS)08/18,DISA VASCULAR,60,""ZAR                                  1,007,371.77"",25-Jun-20,2,3,27-Jun-20,28-Jun-20,Create,Not done,Awaiting for purchase order to be generated"
+Lazy boys chairs,Q041/20/COVID19,Approved- went for capturing,30,,,,,,,On delivery,Not done,Awaiting for purchase order to be generated
+"Item Description,Contract/Quotation,AWARDED BIDDER,QUANTITY,""REVISED LATEST"
+ADJUSTED PRICE (15%
+"VAT)"",Purchase order,Payment,Status of Delivery"
+"Cot, Adult with mattress,RT24-2017,Hospital Equipment,27,""R                197,349.89"",Create,Not done,Awaiting purchase order to be created- budget block"
+"Cot, Child with mattress,RT24-2017,Hospital Equipment,154,""R                748,989.78"",Create,Not done,Awaiting purchase order to be created- budget block"
+"Bassenet, type A, complete with stand
+complete with mattress and frame,RT24-2017,""New Horizon"
+"metals CC"",45,""R                  83,255.40"",Create,Not done,Awaiting purchase order to be created"
+"Pressure Relief Matress System,RT24-2017,Arjo Huntleigh,18,""R                119,774.96"",Create,Not done,Awating for purchase order to be generated"
+"Bedpan,RT24-2017,Safermex,48,""R                    5,390.83"",HH-042852,Not done,Stock to arrive 2nd week of September and will be delivered to Institutions by the 3rd week"
+"Bedpan and urinal stand,RT24-2017,New Horizon metals CC,6,""R                  19,439.28"",Create,Not done,Awaiting purchase order to be created"
+"Cabinet, medicine,  mobile,RT24-2017,Siyakhanda Medical,20,""R                269,194.00"",HH-042804,Not done,Pending"
+"Cabinet, poisoning, Wall type,RT24-2017,New Horizon metals CC,18,""R                  36,329.40"",Create,Not done,Awaiting purchase order to be created"
+"Locker, bedside, mild steel,RT24-2017,New Horizon metals CC,167,""R                342,258.15"",Create,Not done,Awaiting purchase order to be created"
+"Overbed table, cantilever type,RT24-2017,Hospi Furn (PTY) ltd,167,""R                368,263.39"",HH-042860,Not done,Budget block"
+"Scale, Electronic, Bathroom Type,RT24-2017,Delta Surgical,14,""R                  49,142.38"",Create,Not done,Awaiting purchase order to be created"
+"Scale, Electronic, Neonatal,RT24-2017,Ecomed Medical,20,""ZAR             27,822.00"",HH-042828,Not done,Delivery is estimated for  21.08.2020"
+"Stadiometer,RT24-2017,Delta Surgical,6,""R                    7,675.38"",Create,Not done,Awaiting purchase order to be created"
+"Drip Stand Mobile,RT24-2017,New Horizon metals CC,223,""R                125,022.72"",Create,Not done,Awaiting purchase order to be created"
+"Stool, Foot, Double Step,RT24-2017,New Horizon metals CC,45,""R                  39,244.95"",Create,Not done,Awaiting purchase order to be created"
+"Screen, bedside, wheeled,RT24-2017,Hospital Equipment,14,""R                  38,811.36"",Create,Not done,Awaiting purchase order to be created- budget block"
+"Trolley, emergency, crash cart,RT24-2017,Siyakhanda Medical,24,""R                490,349.28"",HH-042803,Not done,Pending"
+"Gas cylinider trolley,RT24-2017,New Horizon metals CC,32,""R                  28,505.28"",Create,Not done,Awaiting purchase order to be created"
+"Trolley, medical dressing,RT24-2017,New Horizon metals CC,45,""R                  86,647.05"",Create,Not done,Awaiting purchase order to be created"
+"Carrier, soiled linen, with receptacle,RT24-2017,Hospital Equipment,26,""ZAR              30,944.68"",Create,Not done,Awaiting purchase order to be created- budget block"
+"Receptacle, soiled linen, polyester,RT24-2017,Hospital Equipment,88,""R                  39,023.60"",Create,Not done,Awaiting purchase order to be created- budget block"
+"Trolley, utility,,RT24-2017,New Horizon metals CC,32,""R                131,563.52"",Create,Not done,Awaiting purchase order to be created"
+"Defibrillator with SPO2 and pacing,RT2-2016,RCA,14,""R                957,786.48"",UH138996,Not done,Delivery to be done on 31st of August 2020"
+"Electrocardiograph, 12 channel,RT2-2016,RCA,12,""R                284,322.35"",UH138974,Not done,Delivery to be done on 31st of August 2020"
+Examination light, mobile,RT2-2016,Ecomed Medical,20,479.831.20,UH138968,Not done,Delivery to be done on 31st of August 2020
+"Incubator, standard Atom Air,RT2-2016,RCA,46,""R            4,039,098.99"",UH138973,Not done,Delivery to be done on 31st of August 2020"
+"Infant radiant warmer Lullaby Warmer,RT2-2016,Medhold,6,""R                376,125.54"",HH-042861,Not done,Delivery to be done mid October 2020"
+"Infusion pump,RT2-2016,Ecomed Medical,422,""ZAR        3,170,085.10"",HH-042834,Not done,Delivery is estimated for 12.08.2020"
+"Monitor, basic, multiparameter,RT2-2016,RCA,6,""R                142,250.46"",UH138998,Not done,To be confirmed with supplier"
+"Monitor Q7 NIBP + SPO2,RT2-2016,Ecomed Medical,12,""ZAR           526,660.96"",UH139012,Not done,Delivery is estimated for 12.08.2020"
+"Oxygen flowmeter double,RT2-2016,Ecomed Medical,112,""ZAR             68,202.40"",UH139002,Not done,Delivery is estimated for12.08.2020"
+"Phototherapy light,RT2-2016,RCA,48,""R            1,144,752.45"",Create,Not done,Delivery to be done on 31st of August 2020"
+"Resuscitator Infant, gas powered,RT2-2016,RCA,6,""R                  73,732.64"",UH139000,Not done,Delivery to be done on 31st of August 2020"
+"Suction unit, mobile,RT2-2016,Ecomed Medical,18,""ZAR           110,389.50"",UH139046,Not done,Delivery is estimated for 21.08.2020"
+"Suction unit, wall mounted,RT2-2016,SSEM Mthembu,62,""R                127,924.32"",HH-042845,Not done,Left with 4 to complete delivery by the 7th of August"
+"Vaccine Refrigerator (290-350l),RT2-2016,minus 40,3,""R                183,128.42"",HH042838,Not done,Delivery to be completed by the 7th of August"
+"Glucometer,DOH(FS)29/18/19,khalinyane,30,""R                    5,625.00"",Create,Not done,delivered"
+"Bed Sheet Large (1a),DOH(FS)25/18/19,Koafela,200,""R                    4,000.00"",Create,Not done,Delivery to be completed by the 7th of August"
+"Bed Sheet Cot (2a),DOH(FS)25/18/19,Koafela,200,""R                    4,000.00"",Create,Not done,Delivery to be completed by the 7th of August"
+"Bed Sheet Crib (3a),DOH(FS)25/18/19,Koafela,135,""R                    2,700.00"",Create,Not done,Delivery to be completed by the 7th of August"
+"Pillow Cases (5a),DOH(FS)25/18/19,Koafela,200,""R                    4,000.00"",Create,Not done,Delivery to be completed by the 7th of August"
+"Bunny blankets (8a),DOH(FS)25/18/19,Koafela,135,""R                    2,700.00"",Create,Not done,Delivery to be completed by the 7th of August"
+"Bedspreads (6a),DOH(FS)25/18/19,Koafela,200,""R                    4,000.00"",Create,Not done,Awaiting material from KYM"
+"Draw sheets (4a),DOH(FS)25/18/19,Koafela,200,""R                    4,000.00"",Create,Not done,Awaiting material from KYM"
+"Acrylic Blankets, Blue 41.1(a),DOH(FS)25/18/19,Koafela,200,""R                100,000.00"",Create,Not done,Delivery to be completed by the 7th of August"
+"Single glass door fridge,RT2-2016,Minus40,10,""R                487,529.39"",HH042805,Not done,Delivery to be completed by the 14th of August"
+"Syringe Driver Basic,RT4-2017,Ecomed Medical,168,""ZAR           946,680.00"",UH139045,Not done,delivered"
+Ventilator Neonatal/Paediatric,RT2-2016,Maquet SA,18,5757166.8,Create,Not done,Awaiting purchase order to be generated before delivery
+ICU monitor Beneview T6 Monitor,RT2-2016,RCA,57,6821510.91,UH139005,Not done,To be confirmed with supplier
+"V6 ICU monitor,RT2-2016,Ecomed Medical,12,""ZAR           182,891.88"",UH139001,Not done,"
+CPAP WILA Flow,RT2-2016,Phoenix neomed,24,4486402.08,Create,Not done,Awaiting purchase order to be generated before delivery
+laryngoscope,RT4-2017,unicore,18,30291.66,Create,Not done,Awaiting purchase order to be generated before delivery
+"Ventilator Paediatric/adult,RT2-2016,RCA,32,""R          14,641,968.18"",Create,Not done,Delivery to be done on 31st of August 2020"
+"US machine,RT2-2016,RCA,4,""R            1,920,712.95"",UH138972,Not done,Delivery to be done on 31st of August 2020"
+"Nebulizer Ultrasonic Areogon,RT2-2016,RCA,12,""R                203,004.96"",Create,Not done,Delivery to be completed bythe 14th of August 2020"
+"Intubation video laryngoscope,RT2-2016,SSEM Mthembu,6,""R                912,870.00"",UH139077,Not done,Delivery to be completed by the 7th of August"
+"Infant radiant warmer,RT2-2016,SSEM Mthembu,18,""R            1,076,370.61"",HH-042837,Not done,Delivery to be completed by the 7th of August"
+"Item Description,""Contract/Quotatio"
+"n"",AWARDED BIDDER,QUANTITY,""REVISED LATEST ADJUSTED"
+"PRICE (15% VAT)"",Date letter issued,""DELIVERY"
+PERIOD
+"MIN (DAYS)"",""DELIVERY"
+PERIOD
+MAX
+"(DAYS)"",""Date for delivery"
+"MIN"",""Date for delivery"
+"MAX"",""Purchase"
+"order"",Payment,Status of Delivery"
+"Reverse osmosis plant Replacement,2,submision for approval,,,,,,,,Q,Not done,""Quotation process done, submission to be approved by HOD."""
+"Intermittent Hemodialysis Machines,6,submision for approval,,,,,,,,Q,Not done,""Quotation process done, submission to be approved by HOD."""
+"Mobile Reverse Osmosis Machines,6,submision for approval,,,,,,,,Q,Not done,""Quotation process done, submission to be approved by HOD."""
+"Continuous Hemodialysis Machine,2,submision for approval,,,,,,,,Q,Not done,""Quotation process done, submission to be approved by HOD."""
+"Automated Peritoneal Dialysis Machine,2,submision for approval,,,,,,,,Q,Not done,""Quotation process done, submission to be approved by HOD."""
+PD Fluid warmer,1,no quote,,,,,,,,,,No quote received.
+"Roller-boards for patient transfer,RT24-2017,Delta,340,""ZAR                      115,485.00"",29-Jun-20,28,42,27-Jul-20,10-Aug-20,Create,Not done,Awaiting purchase order to be generated before delivery"
+"Fluid warmer for IV fluids (“oven”),RT2-1-2016,Class three Medical,20,""ZAR                  1,327,682.00"",29-Jun-20,14,56,13-Jul-20,24-Aug-20,UH138969,Not done,Within 14 days from today"
+"Wall suction units with filters and tubing,RT2-2016,Esat Coast Medical,500,""ZAR                   1,106,040.00"",29-Jun-20,30,0,29-Jul-20,29-Jun-20,UH139009,Not done,Delivery to be done on 5th of August 2020"
+"Dressing trolleys,RT24-2017,New Horizon,15,""ZAR                        28,882.35"",29-Jun-20,30,0,29-Jul-20,29-Jun-20,UH138997,Not done,Awaiting delivery address from Dr. Pearce"
+"Air mattresses,RT24-2017,Arjo,60,""ZAR                      119,774.96"",29-Jun-20,42,72,10-Aug-20,9-Sep-20,HH-042846,Not done,Awating for purchase order to be generated"
+"pillow cases,DOH(FS)25/18/19,Koafela,2600,""ZAR                      103,844.00"",29-Jun-20,42,72,10-Aug-20,9-Sep-20,HH-042839,Not done,""Ready for delivery, awaiting printing confirmation from Dr. Pearce"""
+",,""Item"
+"Number"",Item Description,Quantity,Contract/Quotation,AWARDED BIDDER,""REVISED LATEST ADJUSTED"
+"PRICE (15% VAT)"",""Date letter"
+"issued"",""DELIVERY"
+PERIOD MIN
+"(DAYS)"",""DELIVERY"
+PERIOD
+MAX
+"(DAYS)"",""Date for delivery"
+"MIN"",""Date for delivery"
+"MAX"",Creation of order,""Purchase"
+"order"",Payment,Status of Delivery"
+",Q,,Bed,""1,000"",Quotation,Specification done,""ZAR                       2,000,000.00"",,,,0-Jan-00,0-Jan-00,On deliveNryo,done,Pending,Quotation process complete. Awaiting HOD approval"
+",D,rt24-2026,Mattress,""1,000"",RT24-2017,Arjo - Riaan 0738236015/Kay 07114839,""2ZAR                       1,065,302.50"",9-Jul-20,,,9-Jul-20,9-Jul-20,On deliveNryo,done,Pending,File awaiting budget for purchase order to be generated"
+",D,42272501-,Monitor,50,RT2-2016,Echomed CJ 0793426254,""ZAR                          762,049.50"",10-Jul-20,28,35,7-Aug-20,14-Aug-20,On deliveNryo,done,Pending,File awaiting budget for purchase order to be generated"
+",D,41112501-,double flow meter,500,RT2-2016,Echomed CJ 0793426254,""ZAR                          304,475.00"",10-Jul-20,28,42,7-Aug-20,21-Aug-20,On deliveNryo,done,Pending,File awaiting budget for purchase order to be generated"
+",D,DOH(FS)25/,blanket,""1,333"",DOH(FS)25/18/19,Kaofela Mpho 0792357935,""ZAR                            8 0,000.00"",9-Jul-20,,,9-Jul-20,9-Jul-20,On deliveNryo,done,Pending,File awaiting budget for purchase order to be generated"
+",D,DOH(FS)25/,sheet,""4,000"",DOH(FS)25/18/20,Kaofela Mpho 0792357935,""ZAR                          666,600.00"",9-Jul-20,,,9-Jul-20,9-Jul-20,On deliveNryo,done,Pending,File awaiting budget for purchase order to be generated"
+",Q,,pillow,""1,000"",Quotation,Specification done,""ZAR                            9 5,000.00"",,,,0-Jan-00,0-Jan-00,On deliveNryo,done,Pending,Quotation process complete. Awaiting HOD approval"
+",D,DOH(FS)25/,pillow cases,""4,000"",DOH(FS)25/18/20,Kaofela Mpho 0792357935,""ZAR                            8 0,000.00"",9-Jul-20,,,9-Jul-20,9-Jul-20,On deliveNryo,done,Pending,File awaiting budget for purchase order to be generated"
+",D,RT2-2016,Humidifier,""1,000"",RT2-2016,East Coast Medical Charles 086 100 042,""ZAR                          310,500.00"",9-Jul-20,,,9-Jul-20,9-Jul-20,On deliveNryo,done,Pending,File awaiting budget for purchase order to be generated"
+",D,RT24-10-,drip stand,500,RT24-2017,New Horizon metals CC 031 5647380,""ZAR                          280,000.00"",10-Jul-20,30,30,9-Aug-20,9-Aug-20,On deliveNryo,done,Pending,File awaiting budget for purchase order to be generated"
+",D,""RT24-11-"
+"009"",shield/screen,100,RT24-2017,Hospital Equipment Gladys 011-894-426,""ZAR                          277,224.00"",,42,70,11-Feb-00,10-Mar-00,On deliveNryo,done,Pending,Quotation received. File to be sent for capturing when sytem opens on the 4th of August"
+",D,RT24-12-,emergency trolly,20,RT24-2017,Siyakhanda Cindy - 0437362996,""ZAR                          336,486.75"",9-Jul-20,70,98,17-Sep-20,15-Oct-20,On deliveNryo,done,Pending,File awaiting budget for purchase order to be generated"
+",R,RT4,laryngoscope,22,RT4,Unicore-0829297446,""ZAR                            3 7,397.11"",,,,0-Jan-00,0-Jan-00,On deliveNryo,done,Pending,Awaiting quotation rom company"
+",R,,Defibrillator/AED/ECG,20,RT2,Be safe Gavin 0217884681,""ZAR                          752,430.96"",,,,0-Jan-00,0-Jan-00,On deliveNryo,done,Pending,Awaiting quotation rom company"
+",D,RT24-04-,medicine trolly,25,RT24-2017,Siyakhanda Cindy - 0437362996,""ZAR                          408,624.40"",9-Jul-20,70,98,17-Sep-20,15-Oct-20,On deliveNryo,done,Pending,File awaiting budget for purchase order to be generated"
+",D,RT2424-02-,table over the bed,""1,111"",RT24-2017,Arjo - Riaan 0738236015/Kay,""ZAR                       2,327,724.98"",10-Jul-20,100,100,18-Oct-20,18-Oct-20,On deliveNryo,done,Pending,File awaiting budget for purchase order to be generated"
+",D,4227101-,oxygen cylinders,33,RT4-2017,Echomed CJ 0793426254,""ZAR                            4 3,768.23"",10-Jul-20,28,42,7-Aug-20,21-Aug-20,On deliveNryo,done,Pending,File awaiting budget for purchase order to be generated"
+",D,42171801-,Mobile Suction,20,RT2-2016,Echomed CJ 0793426254,""ZAR                          122,655.00"",10-Jul-20,42,56,21-Aug-20,4-Sep-20,On deliveNryo,done,Pending,File awaiting budget for purchase order to be generated"
+",D,,Stethoscopes,50,RT4-2017,Selective Decision 0117915754,""ZAR                              1,353.50"",,,,0-Jan-00,0-Jan-00,On deliveNryo,done,Pending,Quotation received. File to be sent for capturing when sytem opens on the 4th of August"
+",D,41111931-,Lighting with battery,3,RT2-2016,Sanbonani Holdings 0824136617,""ZAR                          100,767.75"",10-Jul-20,35,35,14-Aug-20,14-Aug-20,On deliveNryo,done,Pending,File awaiting budget for purchase order to be generated"
+",D,RT2-45,Medications Fridge,3,RT2-2016,Minus 40 Duncan 0213862290,""ZAR                          179,342.95"",10-Jul-20,14,,24-Jul-20,10-Jul-20,On deliveNryo,done,Pending,File awaiting budget for purchase order to be generated"
+",D,RT24-08-005,Scale,10,RT24-2017,Delta Surgical Ashley,""ZAR                            5 4,606.50"",10-Jul-20,,,10-Jul-20,10-Jul-20,On deliveNryo,done,Pending,File awaiting budget for purchase order to be generated"
+",R,RT2-44,Wheel chairs and stretcher trolleys,20,RT2-2016,CE Mobility phindi phindi@cemobility.c,"".zZaAR                              6"
+",740.38"",,,,0-Jan-00,0-Jan-00,On deliveNryo,done,Pending,Awaiting quotation rom company"
+",R,,Commodes/bedpans,100,RT24-2017,Safarmex Felicity0119740429,""ZAR                            1 1,231.00"",,,,0-Jan-00,0-Jan-00,On deliveNryo,done,Pending,Awaiting quotation rom company"
+",D,RT24-12-,Body Trolley,20,RT24-2017,New Horizon metals CC 031 5647380,""ZAR                          155,733.20"",10-Jul-20,30,30,9-Aug-20,9-Aug-20,On deliveNryo,done,Pending,File awaiting budget for purchase order to be generated"
+",D,RT24-03-,bedpan stand,67,RT24-2017,New Horizon metals CC 031 5647380,""ZAR                          217,071.96"",10-Jul-20,30,30,9-Aug-20,9-Aug-20,On deliveNryo,done,Pending,File awaiting budget for purchase order to be generated"
+",D,4227201-,INTUBATION VIDEO LARYNGOSCOPE,2,RT2-2016,SSEM Jannie 0833795943,""ZAR                          304,290.33"",,,,0-Jan-00,0-Jan-00,On deliveNryo,done,Pending,Quotation received. File to be sent for capturing when sytem opens on the 4th of August"
+",Q,,Hemocue - Hb Meter - for each ward,30,Quotation,,""ZAR                            1 5,000.00"",,,,0-Jan-00,0-Jan-00,On deliveNryo,done,Pending,Quotation process complete. Awaiting HOD approval"
+",D,DOH(FS)29/,Glucometer- for each ward,100,DOH(FS)29/18/19,Khalienyane Trading Tshepiso - 0737544,""9Z2AR                            1 8,750.00"",,,,0-Jan-00,0-Jan-00,On deliveNryo,done,Pending,Quotation received. File to be sent for capturing when sytem opens on the 4th of August"
+",D,42181701-,12 lead ECG machine,20,RT2-2016,Echomed CJ 0793426254,""ZAR                          559,676.60"",10-Jul-20,28,35,7-Aug-20,14-Aug-20,On deliveNryo,done,Pending,File awaiting budget for purchase order to be generated"
+",D,42292404-,SYRINGE DRIVER,100,RT4-2017,Echomed CJ 0793426254,""ZAR                          563,500.00"",10-Jul-20,28,35,7-Aug-20,14-Aug-20,On deliveNryo,done,Pending,File awaiting budget for purchase order to be generated"
+",D,42231501-,infusion pump,""1,000"",RT2-2016,Echomed CJ 0793426254,""ZAR                       7,512,050.00"",10-Jul-20,35,42,14-Aug-20,21-Aug-20,On deliveNryo,done,Pending,File awaiting budget for purchase order to be generated"
+",Q,,WARMER,10,Quotation,,""ZAR                          100,000.00"",,,,0-Jan-00,0-Jan-00,On deliveNryo,done,Pending,End user requested that process be on hold till further notice"
+",,,Matress protector,""2,000"",Contract,Email sent to Kennedy Blue from Blue,""ZAR                       1,500,000.00"",,,,0-Jan-00,0-Jan-00,On deliveNryo,done,Pending,Awaiting quotation from company"
+",D,RT24-09-,Roller-boards for patient transfer,10,RT24-2017,Delta Surgical Ashley,""ZAR                            4 0,367.00"",10-Jul-20,,,10-Jul-20,10-Jul-20,On deliveNryo,done,Pending,File awaiting budget for purchase order to be generated"
+",D,41102407-,Fluid warmer for IV fluids (“oven”),10,RT2-2016,Class three Medical,""ZAR                          818,358.17"",9-Jul-20,14,21,23-Jul-20,30-Jul-20,On deliveNryo,done,Pending,File awaiting budget for purchase order to be generated"
+,,,Wall suction units with filters and tubing,,Contract,East Coast Medical Charles 086 100 042,ZAR                                        -,,,,0-Jan-00,0-Jan-00,On deliveNryo,done,Pending,Awaiting quotation from company
+",D,RT24-12-,Dressing trolleys,33,RT24-2017,New Horizon metals CC 031 5647380,""ZAR                            6 3,541.17"",10-Jul-20,30,30,9-Aug-20,9-Aug-20,On deliveNryo,done,Pending,File awaiting budget for purchase order to be generated"
+",,,Air mattresses,30,RT24-,Arjo - Riaan 0738236015/Kay 07114839,""2ZAR                          173,586.90"",,,,0-Jan-00,0-Jan-00,On deliveNryo,done,Pending,Awaiting quotation from company"
+",D,RT24-04-006,""CaEbinet, poisoning, Wall type"",6,RT24-2017,New Horizon metals CC 031 5647380,""ZAR                            20,220.42"",10-Jul-20,30,30,9-Aug-20,9-Aug-20,On deliveNryo,done,Pending,File awaiting budget for purchase order to be generated"
+",D,RT24-07-001,""LoEcker, bedside, mild steel"",""1,000"",RT24-2017,New Horizon metals CC 031 5647380,""ZAR                       2,049,450.00"",10-Jul-20,30,30,9-Aug-20,9-Aug-20,On deliveNryo,done,Pending,File awaiting budget for purchase order to be generated"
+",,RT24-04-007,""Overbed table, cantilever type"",""1,111"",RT24-2017,Hospi Furn (PTY) ltd,""ZAR                       1,666,500.00"",,,,0-Jan-00,0-Jan-00,On deliveNryo,done,Pending,Awaiting quotation from company"
+",D,RT24-11-003,""StEool, Foot, Double Step"",33,RT24-2017,New Horizon metals CC 031 5647380,""ZAR                            28,779.63"",10-Jul-20,30,30,9-Aug-20,9-Aug-20,On deliveNryo,done,Pending,File awaiting budget for purchase order to be generated"
+",D,RT24-12-009,""TrEolley, medical dressing"",33,RT24-2017,New Horizon metals CC 031 5647380,""ZAR                            39,057.81"",10-Jul-20,30,30,9-Aug-20,9-Aug-20,On deliveNryo,done,Pending,File awaiting budget for purchase order to be generated"
+",D,RT24-12-030,""Carrier, soiled linen, with receptacle"",100,RT24-,Hospital Equipment Gladys 011-894-426,""ZAR                          119,018.00"",,42,70,11-Feb-00,10-Mar-00,On deliveNryo,done,Pending,File awaiting budget for purchase order to be generated"
+",D,RT24-12-031,""Receptacle, soiled linen, polyester"",100,RT24-2017,Hospital Equipment Gladys 011-894-426,""ZAR                            44,345.00"",,42,70,11-Feb-00,10-Mar-00,On deliveNryo,done,Pending,File awaiting budget for purchase order to be generated"
+",D,RT24-12-029,""TrEolley, utility,"",33,RT24-2017,New Horizon metals CC 031 5647380,""ZAR                          135,674.88"",10-Jul-20,30,30,9-Aug-20,9-Aug-20,On deliveNryo,done,Pending,File awaiting budget for purchase order to be generated"
+",D,RT2-43,Vaccine Refrigerator (290-350l),3,RT2-2016,Minus 40 Duncan 0213862290,""ZAR                          179,342.95"",10-Jul-20,14,,24-Jul-20,10-Jul-20,On deliveNryo,done,Pending,File awaiting budget for purchase order to be generated"
+",D,RT2-44,Single glass door fridge,3,RT2-2016,Minus 40 Duncan 0213862290,""ZAR                          124,320.00"",10-Jul-20,14,,24-Jul-20,10-Jul-20,On deliveNryo,done,Pending,File awaiting budget for purchase order to be generated"
+",D,RT24-11-003,""StEool, Foot, Double Step"",33,RT24-2017,New Horizon metals CC 031 5647380,""ZAR                            28,779.63"",10-Jul-20,30,30,9-Aug-20,9-Aug-20,On deliveNryo,done,Pending,File awaiting budget for purchase order to be generated"
+",Q,,high Flow,160,Quotation,RCA angelique 0834119690,""ZAR                     15,846,042.46"",,42,84,11-Feb-00,24-Mar-00,On deliveNryo,done,Pending,End user requested that process be on hold till further notice"
+",D,42281508-0,0a0e2rogen,50,RT2-2016,RCA angelique 0834119690,""ZAR                          845,853.75"",10-Jul-20,28,45,,24-Aug-20,,,,File awaiting budget for purchase order to be generated"
+",D,RT-2 / 2016,Acessories ventilator,50,RT2-2016,RCA angelique 0834119690,""ZAR                       2,145,616.40"",,28,45,28-Jan-00,14-Feb-00,On deliveNryo,done,Pending,Quotation received. File to be sent for capturing when sytem opens on the 4th of August"
+",Q,,Microwave,10,Quotation,,""ZAR                              7,500.00"",,,,,,,,,End user requested that process be on hold till further notice"
+",Q,,Kettle,30,Quotation,,""ZAR                              3,000.00"",,,,,,,,,End user requested that process be on hold till further notice"
+",Q,,Clocks,30,Quotation,,""ZAR                              1,950.00"",,,,,,,,,End user requested that process be on hold till further notice"
+",Q,,pens,150,Quotation,,""ZAR                              1,500.00"",,,,,,,,,End user requested that process be on hold till further notice"
+",Q,,hand held finger sats monitor for doctors rounds,""1,000"",Quotation,,""ZAR                            2 0,000.00"",,,,,,,,,End user requested that process be on hold till further notice"
+",D,""42181716-"
+"00041"",Monitor ECG sats temp and spo2,160,RT2-2016,Echomed CJ 0793426254,""ZAR                       2,765,260.80"",10-Jul-20,28,35,7-Aug-20,14-Aug-20,On deliveNryo,done,Pending,File awaiting budget for purchase order to be generated"
